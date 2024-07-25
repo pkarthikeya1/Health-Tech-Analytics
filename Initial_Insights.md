@@ -1,4 +1,4 @@
-# WARM UP
+# ADHOC ANALYSIS
 ### 1. What are the total number of claims per month, per product in 2020?
 #### 1A--> May followed by June have the highest claims with 984, 918 in 2020.
 
@@ -23,7 +23,6 @@
 
     
 
---INTERVIEW LEVEL
 ### 3. What were the top 2 hair products in June 2023? Round the results to two decimal points.      
 #### 3A--> Hair Vitamins Trio have both highest claim amount 18002.5$ and covered amount, followed by Hair Growth Supplements 12222.08$. Remaining two are <3% of the Hair Vitamins Trio.
 
@@ -99,15 +98,3 @@
 
 
 
-
--- ADVANCED LEVEL
-
-### 8. For each plan, what is the average percent reimbursement? Is this standard across all customers with the same plan?
-
-
-
-
-### 9. What's the average time between claims for each customer?
-
-
-### 10. For customers who have more than 1 order, which product is most often bought as the second product?
