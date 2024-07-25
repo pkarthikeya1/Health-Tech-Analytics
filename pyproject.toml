@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "src"
+version = "0.1.0"
+description = ""
+authors = ["karthikeya pervela <69100096+pkarthikeya1@users.noreply.github.com>"]
+readme = "README.md"
+packages = [
+            {include = "src"}
+            ]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.2"
+google-cloud-bigquery = "^3.25.0"
+seaborn = "^0.13.2"
+plotly = "^5.23.0"
+nbformat = "^5.10.4"
+kaleido = "0.2"
+numpy = "^2.0.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
